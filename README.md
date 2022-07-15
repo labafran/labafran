@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phantom1403
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a project
 - 📫 You can send me a message to francolabayen@gmail.com to talk with me
 
