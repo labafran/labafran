@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phantom1403
+- 👋 Hi, I’m Fran
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a project
